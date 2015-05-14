@@ -1,0 +1,17 @@
+{
+  "name": "beAwesome",
+  "version": "0.1.0",
+  "homepage": "https://github.com/DonQuality/beAwesome",
+  "authors": [
+    "DonQuality <santosemmanuel@outlook.com>"
+  ],
+  "description": "codeAwesome",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
