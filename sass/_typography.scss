@@ -1,0 +1,8 @@
+@import "typography/manifest";
+
+.diff-color{
+  @include fonty(null, null, 100);
+  color: #fff;
+  -webkit-animation-delay: 1s;
+  -vendor-animation-delay: 1s;
+}

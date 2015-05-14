@@ -1,0 +1,12 @@
+@import "typography/manifest";
+
+.main-header{
+  @include col(4/4);
+  padding: 1em;
+
+  h1{//logo
+    @include fonty(null, deepskyblue, 700);
+    letter-spacing: .1em;
+  }
+}
+

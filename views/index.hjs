@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <title>{{ title }}</title>
+    <!-- meta tags -->
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name ="description" content="">
+    <meta name ="keywords" content ="">
+    <meta charset="UTF-8">
+    <!-- links -->
+    <link rel='stylesheet' href='/stylesheets/app.css'>
+    <link rel="icon" type="image/png" href="/images/fav.png">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <header class="main-header animated fadeInLeft">
+      <h1 class="logo">
+        <span class="diff-color animated bounce">Be</span>
+        Awesome ...
+      </h1>
+    </header>
+
+    <script src="http://localhost:35729/livereload.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/javascripts/main.js"></script>
+  </body>
+</html>
